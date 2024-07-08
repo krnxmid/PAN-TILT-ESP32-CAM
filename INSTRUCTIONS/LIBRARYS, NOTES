@@ -1,0 +1,18 @@
+👾HERE ARE THE INSTRUCTIONS👾
+
+ESP32 board URL👉 https://dl.espressif.com/dl/package_esp32_index.json
+AsycnTCP Library👉 https://github.com/me-no-dev/AsyncTCP/archive/refs/heads/master.zip
+ESPAsyncWebServer Library👉 https://github.com/me-no-dev/ESPAsyncWebServer.git
+
+GO TO "\Documents\Arduino\libraries\ESP_Async_WebServer\src\AsyncWebSocket.h" AND SET THE VALUE OF "WS_MAX_QUEUED_MESSAGES" TO 1 INSTEAD OF 32.
+
+👉Components list:
+✅ ESP32 Cam modulE
+✅ Pan Tilt Servo assembly
+✅ Servo motor
+✅ 5V acdc Adapter
+✅ Breadboard 
+✅ Arduino Uno 
+✅ Jumper wires 
+
+TO CONNECT WITH THE CAM, LOOK FOR A NETWORK NAMED "ESP32CAM" AND ENTER THE PASSWORD "123456789"
